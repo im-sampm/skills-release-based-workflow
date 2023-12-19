@@ -1,3 +1,5 @@
+![New Project (2)](https://github.com/im-sampm/skills-release-based-workflow/assets/140651156/7c189005-da93-4b39-97f7-49650476dbd8)
+
 <header>
 
 <!--
